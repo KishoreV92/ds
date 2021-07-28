@@ -1,3 +1,5 @@
 bin/com/uni/ds/BubbleSort.class
 .vscode/settings.json
 bin/com/uni/ds/SelectionSort.class
+bin/com/uni/ds/InsertionSort.class
+bin/com/uni/ds/FunctionUtils.class
